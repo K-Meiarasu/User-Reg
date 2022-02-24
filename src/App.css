@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  font-size: 2.5vw;
+}
+.header{
+  color: aqua;
+  background-color: black;
+  padding: 0.5vw;
+  font-size: 2vw;
+}
+.body{
+  background-color: black;
+  margin: 1vw;
+}
+.box{
+  margin-top: 0.5vw;
+  margin-left: 27%;
+  border: 0.3vw solid aqua;
+  width: 45vw;
+  height: auto;
+  background-color: black;
+}
+input{
+  width: 30vw;
+  margin: 1vw;
+  padding: 1vw;
+  border-radius: 0.3vw;
+  color: black;
+  background-color: aqua;
+  font-size: 3vw;
+  text-align: center;
+}
+button{
+  width: 9vw;
+  height: 4.5vw;
+  padding: 0.5vw;
+  color: aqua;
+  background-color: black;
+  border: 0.3vw solid aqua;
+  margin-top: 2vw;
+  margin-bottom: 4vw;
+  font-size: 2.5vw;
+  cursor: pointer;
+}
+button:hover{
+  width: 10vw;
+  height: 5vw;
+}
+h4{
+  color: white;
+}
+pre{
+  color: orange;
+  padding: 1vw;
+}
+label{
+  color: white;
+  font-size: 1vw;
+}
