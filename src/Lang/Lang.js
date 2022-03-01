@@ -6,14 +6,6 @@ const Lang = () => {
     const [db, setdb] = useState('')
     const [user, setUser] = useState('')
     const [email, setEmail] = useState('')
-//     const newUser=JSON.stringify({
-//             "user": user,
-//             "email": email
-//         }, null, 2)
-
-//     const editUser=JSON.stringify({
-//         "email":"default@gmail.com"
-//     }, null, 2)
 
     React.useEffect(()=>{
         axios({
